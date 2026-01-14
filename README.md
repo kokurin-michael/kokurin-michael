@@ -1,21 +1,42 @@
-- 👋 Hi, I’m Michael
-- 💻 I'm Web and Mobile Developer
-- 📩 kokurin.michael@yandex.ru
+<h1 align="center">👋 Hi, I'm Michael</h1>
+<h3 align="center">React Native · Android · iOS · Python Developer</h3>
 
-<code><img src="https://img.shields.io/badge/javascript-%25.svg?style=for-the-badge&logo=javascript&color=black"></code>
-<code><img src="https://img.shields.io/badge/typescript-%25.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue"></code>
-<code><img src="https://img.shields.io/badge/react.js-%25.svg?style=for-the-badge&logo=react&logoColor=skyblue&color=black"></code>
-<code><img src="https://img.shields.io/badge/react%20native-%25.svg?style=for-the-badge&logo=react&logoColor=skyblue&color=black"></code>
-</p style="height: 20px">
-<code><img src="https://img.shields.io/badge/android-%25.svg?style=for-the-badge&logo=android&logoColor=green&color=black"></code>
-<code><img src="https://img.shields.io/badge/ios-%25.svg?style=for-the-badge&logo=apple&logoColor=white&color=black"></code>
-<code><img src="https://img.shields.io/badge/node.js-%25.svg?style=for-the-badge&logo=node.js&logoColor=white&color=5fa04f"></code>
-<code><img src="https://img.shields.io/badge/kotlin-4faf53.svg?style=for-the-badge&logo=kotlin&color=black"></code>
-<code><img src="https://img.shields.io/badge/sql-%25.svg?style=for-the-badge&logo=sql&logoColor=white&color=black"></code>
+<p align="center">
+  <a href="mailto:kokurin.michael@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-kokurin.michael%40yandex.ru-black?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
+---
 
+### 💻 Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
 
- 
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=3DDC84">
+  <img src="https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple">
+  <img src="https://img.shields.io/badge/Node.js-5FA04F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin">
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
+---
 
+### 🚀 What I Do
+
+- 📱 Cross-platform mobile apps (React Native)
+- ⚙️ Native Android & iOS integrations
+- 🧠 Clean architecture (FSD, MVVM)
+- 🛠 Tooling, automation & scripts (Python / Node.js)
+
+---
+
+<p align="center">
+  <i>Minimalism · Architecture · Performance</i>
+</p>
